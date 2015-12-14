@@ -1,0 +1,20 @@
+.cell{
+	min-height: 2em;
+	border-width: 2px;
+	font-size: 5em;
+	text-align: center;
+}
+
+.center-cell{
+		border-style: solid;
+}
+
+.side-cell{
+		border-top-style: solid;
+		border-bottom-style: solid;
+}
+
+.middle-cell{
+		border-right-style: solid;
+		border-left-style: solid;
+}
